@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarsApp</string>
+    <string name="pers_title">Perseverance Rover</string>
+    <string name="pers_image">pers_image</string>
+    <string name="cur_title">Curiosity Rover</string>
+    <string name="cur_rover_photo">cur_rover_photo</string>
+    <string name="curiosity_rover">CURIOSITY ROVER</string>
+    <string name="perseverance_rover">PERSEVERANCE ROVER</string>
+    <string name="last_photo">LAST ROVER\'S PHOTO</string>
+    <string name="information_from_wiki">GO TO WIKI</string>
+    <string name="photo_from_the_date">PHOTO FROM THE DATE</string>
+    <string name="back">back</string>
+    <string name="back_btn">BACK</string>
+    <string name="landing_date_title">landing_date_title</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="PrimaryColor" format="color"/>
+    <attr name="BackgroundColor" format="color"/>
+    <attr name="ShadeColor" format="color"/>
+    <attr name="SecondaryColor" format="color"/>
+    <attr name="IconsColor" format="color"/>
+    <attr name="MainColor" format="color"/>
+    <attr name="TopAppIconColor" format="color"/>
+</resources>
